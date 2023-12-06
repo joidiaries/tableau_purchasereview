@@ -50,7 +50,7 @@ It is about the purchasing transactions made between 2019-2022. Made this data b
 
 ![image](https://github.com/joidiaries/tableau_purchasereview/assets/150142726/f5dbcc0d-c1c9-4321-96fc-e92464059173)
 
-2. Which buyer has the highest item receivable or "undelivered" in USD? --> Jessica Brown. Though she has the highest spend, she also has the highest undelivered items. She should follow-up with her suppliers the orders to avoid further delay.
+2. Which buyer has the highest item receivable or "undelivered" in USD? --> Jessica Brown. Though she has the second highest spend, she also has the highest undelivered items. She should follow-up with her suppliers the orders to avoid further delay.
 
 ![image](https://github.com/joidiaries/tableau_purchasereview/assets/150142726/9328a5c8-b922-41d9-8e2e-95f112a5a138)
 
