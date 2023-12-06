@@ -52,11 +52,13 @@ It is about the purchasing transactions made between 2019-2022. Made this data b
 
 2. Which buyer has the highest item receivable or "undelivered" in USD? --> Jessica Brown. Though she has the highest spend, she also has the highest undelivered items. She should follow-up with her suppliers the orders to avoid further delay.
 
-![image](https://github.com/joidiaries/tableau_purchasereview/assets/150142726/74847c8e-e45d-49ac-98c8-e2a593ca0084)
+![image](https://github.com/joidiaries/tableau_purchasereview/assets/150142726/9328a5c8-b922-41d9-8e2e-95f112a5a138)
+
 
 3. Which location has the highest spend (possible expansion)? Arizona (answer may vary if filtered per year, vendor and buyer)
 
-![image](https://github.com/joidiaries/tableau_purchasereview/assets/150142726/b4a20825-9688-451e-bb4b-b06f6b6dd84f)
+![image](https://github.com/joidiaries/tableau_purchasereview/assets/150142726/11bfa1ef-1c5b-4631-a2d1-9769436f9ed4)
+
 
 
 ### Recommendation
